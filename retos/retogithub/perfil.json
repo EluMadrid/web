@@ -1,0 +1,37 @@
+// 20221023132652
+// https://api.github.com/users/elumadrid
+
+{
+    "login": "EluMadrid",
+    "id": 112670243,
+    "node_id": "U_kgDOBrc2Iw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/112670243?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/EluMadrid",
+    "html_url": "https://github.com/EluMadrid",
+    "followers_url": "https://api.github.com/users/EluMadrid/followers",
+    "following_url": "https://api.github.com/users/EluMadrid/following{/other_user}",
+    "gists_url": "https://api.github.com/users/EluMadrid/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/EluMadrid/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/EluMadrid/subscriptions",
+    "organizations_url": "https://api.github.com/users/EluMadrid/orgs",
+    "repos_url": "https://api.github.com/users/EluMadrid/repos",
+    "events_url": "https://api.github.com/users/EluMadrid/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/EluMadrid/received_events",
+    "type": "User",
+    "site_admin": false,
+    "name": "Elvia Madrid",
+    "company": null,
+    "blog": "",
+    "location": "Lima-Peru",
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 5,
+    "public_gists": 0,
+    "followers": 9,
+    "following": 17,
+    "created_at": "2022-09-02T00:30:35Z",
+    "updated_at": "2022-10-13T20:44:23Z"
+  }
